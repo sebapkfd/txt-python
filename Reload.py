@@ -1,6 +1,6 @@
 import os
 
-# Obtiene nombre y ubicación de los archivos
+# Obtiene nombre y ubicación de los todos archivos
 # Funciona para todos los archivos de la carpeta y sub carpetas
 # No ingresa el nombre del script ni del archivo recopilatorio
 archivos = []
